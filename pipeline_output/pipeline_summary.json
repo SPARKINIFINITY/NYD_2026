@@ -1,0 +1,71 @@
+{
+  "files_processed": 1,
+  "total_chunks_created": 143,
+  "schemas_extracted": 1,
+  "knowledge_graph_created": true,
+  "embeddings_created": true,
+  "output_directory": "pipeline_output",
+  "processed_files": [
+    "D:\\Nyd_2026\\uploaded_files\\bhagavad_gita_dataset.json"
+  ],
+  "knowledge_graph_stats": {
+    "nodes": 320,
+    "edges": 1981,
+    "node_types": {
+      "ORG": 84,
+      "GPE": 69,
+      "PERSON": 146,
+      "PRODUCT": 11,
+      "DATE": 7,
+      "MONEY": 1,
+      "EVENT": 2
+    },
+    "relation_types": {
+      "LOCATED_IN": 1921,
+      "FOUNDED_BY": 31,
+      "WORKS_FOR": 6,
+      "PART_OF": 11,
+      "RELATED_TO": 12
+    },
+    "most_connected_entities": [
+      {
+        "entity": "Brahman",
+        "connections": 194
+      },
+      {
+        "entity": "Thou",
+        "connections": 172
+      },
+      {
+        "entity": "Arjuna",
+        "connections": 157
+      },
+      {
+        "entity": "Rajas",
+        "connections": 120
+      },
+      {
+        "entity": "Sattva",
+        "connections": 112
+      }
+    ]
+  },
+  "embedding_stats": {
+    "config": {
+      "model_name": "all-MiniLM-L6-v2",
+      "dimension": 384,
+      "num_chunks": 143,
+      "index_type": "ivf",
+      "total_embeddings": 143
+    },
+    "faiss_index.bin_size_mb": 0.23131084442138672,
+    "embeddings.npy_size_mb": 0.2095947265625,
+    "chunk_metadata.json_size_mb": 0.07927322387695312,
+    "chunks_data.pkl_size_mb": 0.17626667022705078,
+    "chunk_type_distribution": {
+      "json_array": 143
+    },
+    "total_tokens": 66343,
+    "average_tokens_per_chunk": 463.93706293706293
+  }
+}

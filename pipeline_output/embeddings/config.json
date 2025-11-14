@@ -1,0 +1,7 @@
+{
+  "model_name": "all-MiniLM-L6-v2",
+  "dimension": 384,
+  "num_chunks": 143,
+  "index_type": "ivf",
+  "total_embeddings": 143
+}

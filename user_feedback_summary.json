@@ -1,0 +1,34 @@
+{
+  "session_timestamp": "2025-11-14T13:17:08.647431",
+  "total_queries": 1,
+  "average_rating": 2.0,
+  "quality_distribution": {
+    "good": 1
+  },
+  "rating_distribution": {
+    "2": 1
+  },
+  "user_comments": [],
+  "pipeline_results": [
+    {
+      "query_index": 1,
+      "original_query": "what is differenece between karma yoga and bhakti yoga?",
+      "normalized_query": "Normalized: \"What is the difference between karma yoga and bhakti yoga?\"",
+      "intent": "compare",
+      "entities": [
+        "karma",
+        "yoga",
+        "karma yoga"
+      ],
+      "strategy_used": "adaptive",
+      "retrieval_time": 0.2630620002746582,
+      "reranking_time": 2.9867212772369385,
+      "generation_time": 21.9483163356781,
+      "final_confidence": 0.8,
+      "answer_quality": "good",
+      "user_rating": 2,
+      "success": true,
+      "learning_insights": 1
+    }
+  ]
+}

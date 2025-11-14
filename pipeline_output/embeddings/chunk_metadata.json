@@ -1,0 +1,2433 @@
+[
+  {
+    "chunk_id": 0,
+    "chunk_type": "json_array",
+    "token_count": 505,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG1.1\", \"content\": \"Chapter 1, Verse 1: 1.1 Dhritarashtra said  What did my people and the sons of Pandu do when they had assembled\\ntogether eager for battle on the holy plain of Kurukshetra..."
+  },
+  {
+    "chunk_id": 1,
+    "chunk_type": "json_array",
+    "token_count": 425,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 4 items",
+      "item_count": 4,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG1.6\", \"content\": \"Chapter 1, Verse 6: 1.6. \\\"The strong Yodhamanyu and the brave Uttamaujas, the son\\nof Subhadra (Abhimanyu, the son of Subhadra and Arjuna), and the sons of\\nDraupadi, all..."
+  },
+  {
+    "chunk_id": 2,
+    "chunk_type": "json_array",
+    "token_count": 490,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG1.10\", \"content\": \"Chapter 1, Verse 10: 1.10. \\\"This army of ours marshalled by Bhishma is insufficient,\\nwhereas that army of theirs marshelled by Bhima is sufficient.\", \"metadata\": {\"sour..."
+  },
+  {
+    "chunk_id": 3,
+    "chunk_type": "json_array",
+    "token_count": 505,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG1.15\", \"content\": \"Chapter 1, Verse 15: 1.15. Hrishikesha blew the Panchajanya and Arjuna blew the Devadatta\\nand Bhima (the wolf-bellied), the doer of terrible deeds, blew the great\\nconch..."
+  },
+  {
+    "chunk_id": 4,
+    "chunk_type": "json_array",
+    "token_count": 456,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 4 items",
+      "item_count": 4,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG1.20\", \"content\": \"Chapter 1, Verse 20: 1.20. Then, seeing the people of Dhritarashtra’s party standing\\narrayed and the discharge of weapons about to begin, Arjuna, the son of\\nPandu, whos..."
+  },
+  {
+    "chunk_id": 5,
+    "chunk_type": "json_array",
+    "token_count": 502,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG1.24\", \"content\": \"Chapter 1, Verse 24: 1.24. Sanjaya said  Thus addressed by Arjuna, Krishna, having stationed that\\nbest of chariots, O Dhritarashtra, in the midst of the two armies.\", \"m..."
+  },
+  {
+    "chunk_id": 6,
+    "chunk_type": "json_array",
+    "token_count": 441,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG1.29\", \"content\": \"Chapter 1, Verse 29: 1.29. My limbs fail and my mouth is parched, my body ivers and\\nmy hair stands on end.\", \"metadata\": {\"source\": \"bhagavad_gita\", \"chapter\": 1, \"verse..."
+  },
+  {
+    "chunk_id": 7,
+    "chunk_type": "json_array",
+    "token_count": 482,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG1.34\", \"content\": \"Chapter 1, Verse 34: 1.34. Teachers, fathers, sons and also grandfathers, maternal uncles,\\nfathers-in-law, grandsons, brothers-in-law and other relatives,-\", \"metadata\":..."
+  },
+  {
+    "chunk_id": 8,
+    "chunk_type": "json_array",
+    "token_count": 496,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG1.39\", \"content\": \"Chapter 1, Verse 39: 1.39. Why should not we who clearly see evil in the destruction\\nof families, learn to turn away from this sin, O Janardana (Krishna)?\", \"metadata\": ..."
+  },
+  {
+    "chunk_id": 9,
+    "chunk_type": "json_array",
+    "token_count": 488,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG1.44\", \"content\": \"Chapter 1, Verse 44: 1.44. We have heard, O Janardana, that inevitable is the dwelling\\nfor an unknown period in hell for those men in whose families the religious\\npract..."
+  },
+  {
+    "chunk_id": 10,
+    "chunk_type": "json_array",
+    "token_count": 411,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 4 items",
+      "item_count": 4,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG2.2\", \"content\": \"Chapter 2, Verse 2: 2.2 The Blessed Lord said  Whence is this perilous strait come upon thee, this dejection which is unworthy of you, disgraceful, and which will close th..."
+  },
+  {
+    "chunk_id": 11,
+    "chunk_type": "json_array",
+    "token_count": 500,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG2.6\", \"content\": \"Chapter 2, Verse 6: 2.6 I can hardly tell which will be better, that we should  coner them or that they should coner us. Even the sons of Dhritarashtra, after slaying whom..."
+  },
+  {
+    "chunk_id": 12,
+    "chunk_type": "json_array",
+    "token_count": 479,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG2.11\", \"content\": \"Chapter 2, Verse 11: 2.11 The Blessed Lord said  Thou hast grieved for those that should not be grieved for, yet thou speakest words of wisdom. The wise grieve neither fo..."
+  },
+  {
+    "chunk_id": 13,
+    "chunk_type": "json_array",
+    "token_count": 474,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG2.16\", \"content\": \"Chapter 2, Verse 16: 2.16 The unreal hath no being; there is non-being of the real; the truth about both has been seen by the knowers of the Truth (or the seers of the Es..."
+  },
+  {
+    "chunk_id": 14,
+    "chunk_type": "json_array",
+    "token_count": 448,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG2.21\", \"content\": \"Chapter 2, Verse 21: 2.21 Whosoever knows It to be indestructible, eternal, unborn and inexhaustible, how can that man slay, O Arjuna, or cause to be slain?\", \"metadata\":..."
+  },
+  {
+    "chunk_id": 15,
+    "chunk_type": "json_array",
+    "token_count": 460,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG2.26\", \"content\": \"Chapter 2, Verse 26: 2.26 But even if thou thinkest of It as being constantly born and constantly dying, even then, O mighty-armed, thou shouldst not grieve.\", \"metadata\"..."
+  },
+  {
+    "chunk_id": 16,
+    "chunk_type": "json_array",
+    "token_count": 441,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG2.31\", \"content\": \"Chapter 2, Verse 31: 2.31 Further, having regard to thy duty, shouldst not waver, for there is nothing higher for a Kshatriya than a righteous war.\", \"metadata\": {\"source..."
+  },
+  {
+    "chunk_id": 17,
+    "chunk_type": "json_array",
+    "token_count": 467,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG2.36\", \"content\": \"Chapter 2, Verse 36: 2.36 Thy enemies also, cavilling at thy power, will speak many abusive words. What is more painful than this?\", \"metadata\": {\"source\": \"bhagavad_gita..."
+  },
+  {
+    "chunk_id": 18,
+    "chunk_type": "json_array",
+    "token_count": 403,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 4 items",
+      "item_count": 4,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG2.41\", \"content\": \"Chapter 2, Verse 41: 2.41 Here, O joy of the Kurus, there is but a single one-pointed determination; many-branched and endless are the thoughts of the irresolute.\", \"meta..."
+  },
+  {
+    "chunk_id": 19,
+    "chunk_type": "json_array",
+    "token_count": 485,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG2.45\", \"content\": \"Chapter 2, Verse 45: 2.45 The Vedas deal with the three attributes (of Nature); be thou above these three attributes. O Arjuna, free yourself from the pairs of opposites,..."
+  },
+  {
+    "chunk_id": 20,
+    "chunk_type": "json_array",
+    "token_count": 477,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG2.50\", \"content\": \"Chapter 2, Verse 50: 2.50 Endowed with wisdom (evenness of mind), one casts off in this life both good and evil deeds; therefore, devote thyself to Yoga; Yoga is skill in..."
+  },
+  {
+    "chunk_id": 21,
+    "chunk_type": "json_array",
+    "token_count": 459,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG2.55\", \"content\": \"Chapter 2, Verse 55: 2.55 The Blessed Lord said  When a man completely casts off, O Arjuna, all the desires of the mind and is satisfied in the Self by the Self, then is ..."
+  },
+  {
+    "chunk_id": 22,
+    "chunk_type": "json_array",
+    "token_count": 504,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 6 items",
+      "item_count": 6,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG2.60\", \"content\": \"Chapter 2, Verse 60: 2.60 The turbulent senses, O Arjuna, do violently carry away the mind of a wise man though he be striving (to control them).\", \"metadata\": {\"source\":..."
+  },
+  {
+    "chunk_id": 23,
+    "chunk_type": "json_array",
+    "token_count": 470,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG2.66\", \"content\": \"Chapter 2, Verse 66: 2.66 There is no knowledge of the Self to the unsteady and to the unsteady no meditation is possible, and to the unmeditative there can be no peace, ..."
+  },
+  {
+    "chunk_id": 24,
+    "chunk_type": "json_array",
+    "token_count": 482,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG2.71\", \"content\": \"Chapter 2, Verse 71: 2.71 That man attains peace who, abandoning all desires, moves about without longing, without the sense of mine and without egoism.\", \"metadata\": {\"s..."
+  },
+  {
+    "chunk_id": 25,
+    "chunk_type": "json_array",
+    "token_count": 442,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG3.4\", \"content\": \"Chapter 3, Verse 4: 3.4 Not by non-performance of actions does man reach actionlessness; nor by mere renunciation does he attain to perfection.\", \"metadata\": {\"source\": \"b..."
+  },
+  {
+    "chunk_id": 26,
+    "chunk_type": "json_array",
+    "token_count": 490,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG3.9\", \"content\": \"Chapter 3, Verse 9: 3.9 The world is bound by actions other than those performed for the sake of sacrifice; do thou, therefore, O son of Kunti (Arjuna), perform action for..."
+  },
+  {
+    "chunk_id": 27,
+    "chunk_type": "json_array",
+    "token_count": 445,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG3.14\", \"content\": \"Chapter 3, Verse 14: 3.14 From food come forth beings; from rain food is produced; from sacrifice arises rain and sacrifice is born of action.\", \"metadata\": {\"source\": \"b..."
+  },
+  {
+    "chunk_id": 28,
+    "chunk_type": "json_array",
+    "token_count": 443,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG3.19\", \"content\": \"Chapter 3, Verse 19: 3.19 Therefore without attachment, do thou always perform action which should be done; for by performing action without attachment man reaches the Su..."
+  },
+  {
+    "chunk_id": 29,
+    "chunk_type": "json_array",
+    "token_count": 468,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG3.24\", \"content\": \"Chapter 3, Verse 24: 3.24 These worlds would perish if I did not perform action; I should be the author of confusion of castes and destruction of these beings.\", \"metadat..."
+  },
+  {
+    "chunk_id": 30,
+    "chunk_type": "json_array",
+    "token_count": 442,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG3.29\", \"content\": \"Chapter 3, Verse 29: 3.29 Those deluded by the alities of Nature are attached to the functions of the alities. The man of perfect knowledge should not unsettle the foolis..."
+  },
+  {
+    "chunk_id": 31,
+    "chunk_type": "json_array",
+    "token_count": 475,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG3.34\", \"content\": \"Chapter 3, Verse 34: 3.34 Attachment and aversion for the objects of the senses abide in the senses; let none come under their sway; for, they are his foes.\", \"metadata\":..."
+  },
+  {
+    "chunk_id": 32,
+    "chunk_type": "json_array",
+    "token_count": 467,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG3.39\", \"content\": \"Chapter 3, Verse 39: 3.39 O Arjuna, wisdom is enveloped by this constant enemy of the wise in the form of desire, which is unappeasable as fire.\", \"metadata\": {\"source\": ..."
+  },
+  {
+    "chunk_id": 33,
+    "chunk_type": "json_array",
+    "token_count": 479,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG4.1\", \"content\": \"Chapter 4, Verse 1: 4.1 The Blessed Lord said  I taught this imperishable Yoga to Vivasvan; he told it to Manu; Manu proclaimed it to Ikshvaku.\", \"metadata\": {\"source\": \"b..."
+  },
+  {
+    "chunk_id": 34,
+    "chunk_type": "json_array",
+    "token_count": 444,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG4.6\", \"content\": \"Chapter 4, Verse 6: 4.6 Though I am unborn, of imperishable nature, and though I am the Lord of all beings, yet, governing My own Nature, I am born by My own Maya.\", \"meta..."
+  },
+  {
+    "chunk_id": 35,
+    "chunk_type": "json_array",
+    "token_count": 439,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG4.11\", \"content\": \"Chapter 4, Verse 11: 4.11 In whatever way men approach Me even so do I reward them; My path do men tread in all ways, O Arjuna.\", \"metadata\": {\"source\": \"bhagavad_gita\", ..."
+  },
+  {
+    "chunk_id": 36,
+    "chunk_type": "json_array",
+    "token_count": 488,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG4.16\", \"content\": \"Chapter 4, Verse 16: 4.16 What is action? What is inaction? As to this even the wise are confused. Therefore I shall teach thee such action (the nature of action and inac..."
+  },
+  {
+    "chunk_id": 37,
+    "chunk_type": "json_array",
+    "token_count": 480,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG4.21\", \"content\": \"Chapter 4, Verse 21: 4.21 Without hope and with the mind and the self controlled, having abandoned all covetousness, doing mere bodily action, he incurs no sin.\", \"metada..."
+  },
+  {
+    "chunk_id": 38,
+    "chunk_type": "json_array",
+    "token_count": 467,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG4.26\", \"content\": \"Chapter 4, Verse 26: 4.26 Some again offer the organ of hearing and other senses as sacrifice in the fire of restraint; others offer sound and other objects of the senses..."
+  },
+  {
+    "chunk_id": 39,
+    "chunk_type": "json_array",
+    "token_count": 455,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG4.31\", \"content\": \"Chapter 4, Verse 31: 4.31 Those who eat the remnants of the sacrifice, which are like nectar, go to the eternal Brahman. This world is not for the man who does not perfor..."
+  },
+  {
+    "chunk_id": 40,
+    "chunk_type": "json_array",
+    "token_count": 441,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG4.36\", \"content\": \"Chapter 4, Verse 36: 4.36 Even if thou art the most sinful of all sinners, yet thou shalt verily cross all sins by the raft of knowledge.\", \"metadata\": {\"source\": \"bhagav..."
+  },
+  {
+    "chunk_id": 41,
+    "chunk_type": "json_array",
+    "token_count": 487,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG4.41\", \"content\": \"Chapter 4, Verse 41: 4.41 He who has renounced actions by Yoga, whose doubts are rent asunder by knowledge, and who is self-possessed  actions do not bind him, O Arjuna.\"..."
+  },
+  {
+    "chunk_id": 42,
+    "chunk_type": "json_array",
+    "token_count": 496,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG5.4\", \"content\": \"Chapter 5, Verse 4: 5.4 Children, not the wise, speak of knowledge and the Yoga of action or the performance of action as though they are distinct and different; he who is..."
+  },
+  {
+    "chunk_id": 43,
+    "chunk_type": "json_array",
+    "token_count": 470,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG5.9\", \"content\": \"Chapter 5, Verse 9: 5.9 Speaking, letting go, seizing, opening and closing the eyes  convinced that the senses move among the sense-objects.\", \"metadata\": {\"source\": \"bhag..."
+  },
+  {
+    "chunk_id": 44,
+    "chunk_type": "json_array",
+    "token_count": 449,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG5.14\", \"content\": \"Chapter 5, Verse 14: 5.14 Neither agency nor actions does the Lord create for the world, nor union with the fruits of actions. But it is Nature that acts.\", \"metadata\": {..."
+  },
+  {
+    "chunk_id": 45,
+    "chunk_type": "json_array",
+    "token_count": 486,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG5.19\", \"content\": \"Chapter 5, Verse 19: 5.19 Even here (in this world) birth (everything) is overcome by those whose minds rest in eality; Brahman is spotless indeed and eal; therefore they..."
+  },
+  {
+    "chunk_id": 46,
+    "chunk_type": "json_array",
+    "token_count": 493,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG5.24\", \"content\": \"Chapter 5, Verse 24: 5.24 He who is happy within, who rejoices within, and who is illuminated within, that Yogi attains absolute freedom or Moksha, himself becoming Brahm..."
+  },
+  {
+    "chunk_id": 47,
+    "chunk_type": "json_array",
+    "token_count": 471,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG5.29\", \"content\": \"Chapter 5, Verse 29: 5.29 He who knows Me as the enjoyer of sacrifices and austerities, the great Lord of all the worlds and the friend of all beings, attains to peace.\",..."
+  },
+  {
+    "chunk_id": 48,
+    "chunk_type": "json_array",
+    "token_count": 511,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG6.5\", \"content\": \"Chapter 6, Verse 5: 6.5 One should raise oneself by one's Self alone; let not one lower oneself; for the Self alone is the friend of oneself, and the Self alone is the ene..."
+  },
+  {
+    "chunk_id": 49,
+    "chunk_type": "json_array",
+    "token_count": 473,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG6.10\", \"content\": \"Chapter 6, Verse 10: 6.10 Let the Yogi try constantly to keep the mind steady, remaining in solitude, alone, with the mind and the body controlled, and free from hope and..."
+  },
+  {
+    "chunk_id": 50,
+    "chunk_type": "json_array",
+    "token_count": 482,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG6.15\", \"content\": \"Chapter 6, Verse 15: 6.15 Thus always keeping the mind balanced, the Yogi, with the mind controlled, attains to the peace abiding in Me, which culminates in liberation.\",..."
+  },
+  {
+    "chunk_id": 51,
+    "chunk_type": "json_array",
+    "token_count": 456,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG6.20\", \"content\": \"Chapter 6, Verse 20: 6.20 When the mind, restrained by the practice of Yoga attains to quietude and when seeing the Self by the self, he is satisfied in his own Self.\", \"..."
+  },
+  {
+    "chunk_id": 52,
+    "chunk_type": "json_array",
+    "token_count": 452,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG6.25\", \"content\": \"Chapter 6, Verse 25: 6.25 Little by little let him attain to ietude by the intellect held firmly; having made the mind establish itself in the Self, let him not think of ..."
+  },
+  {
+    "chunk_id": 53,
+    "chunk_type": "json_array",
+    "token_count": 456,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG6.30\", \"content\": \"Chapter 6, Verse 30: 6.30 He who sees Me everywhere and sees everything in Me, he never becomes separated from Me, nor do I become separated from him.\", \"metadata\": {\"sou..."
+  },
+  {
+    "chunk_id": 54,
+    "chunk_type": "json_array",
+    "token_count": 446,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG6.35\", \"content\": \"Chapter 6, Verse 35: 6.35 The Blessed Lord said  Undoubtedly, O mighty-armed Arjuna, the mind is difficult to control and restless; but by practice and by dispassion it m..."
+  },
+  {
+    "chunk_id": 55,
+    "chunk_type": "json_array",
+    "token_count": 454,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG6.40\", \"content\": \"Chapter 6, Verse 40: 6.40 The Blessed Lord said  O Arjuna, neither in this world, nor in the next world is there destruction for him; none, verily, who does good, O My so..."
+  },
+  {
+    "chunk_id": 56,
+    "chunk_type": "json_array",
+    "token_count": 460,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG6.45\", \"content\": \"Chapter 6, Verse 45: 6.45 But the Yogi who strives with assiduity, purified of sins and perfected gradually through many births, reaches the highest goal.\", \"metadata\": {..."
+  },
+  {
+    "chunk_id": 57,
+    "chunk_type": "json_array",
+    "token_count": 445,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG7.3\", \"content\": \"Chapter 7, Verse 3: 7.3 Among thousands of men, one perchance strives for perfection; even among those successful strivers, only one perchance knows Me in essence.\", \"meta..."
+  },
+  {
+    "chunk_id": 58,
+    "chunk_type": "json_array",
+    "token_count": 468,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG7.8\", \"content\": \"Chapter 7, Verse 8: 7.8 I am the sapidity in water, O Arjuna; I am the light in the moon and the sun; I am the syllable Om in all the Vedas, sound in ether and virility in..."
+  },
+  {
+    "chunk_id": 59,
+    "chunk_type": "json_array",
+    "token_count": 474,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG7.13\", \"content\": \"Chapter 7, Verse 13: 7.13 Deluded by these Natures (states or things) composed of the three alities of Nature all this world does not know Me as distinct from them and im..."
+  },
+  {
+    "chunk_id": 60,
+    "chunk_type": "json_array",
+    "token_count": 460,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG7.18\", \"content\": \"Chapter 7, Verse 18: 7.18 Noble indeed are all these; but I deem the wise man as My very Self; for, steadfast in mind he is established in Me alone as the supreme goal.\",..."
+  },
+  {
+    "chunk_id": 61,
+    "chunk_type": "json_array",
+    "token_count": 447,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG7.23\", \"content\": \"Chapter 7, Verse 23: 7.23 Verily the reward (fruit) that accrues to those men of small intelligence is finite. The worshippers of the gods go to them, but My devotees com..."
+  },
+  {
+    "chunk_id": 62,
+    "chunk_type": "json_array",
+    "token_count": 472,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG7.28\", \"content\": \"Chapter 7, Verse 28: 7.28 But those men of virtuous deeds whose sins have come to an end, and who are freed from the delusion of the pairs of opposites, worship Me, stead..."
+  },
+  {
+    "chunk_id": 63,
+    "chunk_type": "json_array",
+    "token_count": 501,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG8.3\", \"content\": \"Chapter 8, Verse 3: 8.3 The Blessed Lord said  Brahman is the Imperishable, the Supreme; Its essential nature is called Self-knowledge; the offering (to the gods) which ca..."
+  },
+  {
+    "chunk_id": 64,
+    "chunk_type": "json_array",
+    "token_count": 431,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 4 items",
+      "item_count": 4,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG8.8\", \"content\": \"Chapter 8, Verse 8: 8.8 With the mind not moving towards any other thing, made steadfast by the method of habitual meditation, and constantly meditating, one goes to the S..."
+  },
+  {
+    "chunk_id": 65,
+    "chunk_type": "json_array",
+    "token_count": 485,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG8.12\", \"content\": \"Chapter 8, Verse 12: 8.12 Having closed all the gates, confined the mind in the heart and fixed the life-breath in the head, engaged in the practice of concentration.\", \"..."
+  },
+  {
+    "chunk_id": 66,
+    "chunk_type": "json_array",
+    "token_count": 505,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG8.17\", \"content\": \"Chapter 8, Verse 17: 8.17 Those people who know the day of Brahma which is of a duration of a thousand Yugas (ages) and the night which is also of a thousand Yugas durati..."
+  },
+  {
+    "chunk_id": 67,
+    "chunk_type": "json_array",
+    "token_count": 477,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG8.22\", \"content\": \"Chapter 8, Verse 22: 8.22 That highest Purusha, O Arjuna, is attainable by unswerving devotion to Him alone within Whom all beings dwell and by Whom all this is pervaded...."
+  },
+  {
+    "chunk_id": 68,
+    "chunk_type": "json_array",
+    "token_count": 502,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG8.27\", \"content\": \"Chapter 8, Verse 27: 8.27 Knowing these paths, O Arjuna, no Yogi is deluded; therefore at all times be steadfast in Yoga.\", \"metadata\": {\"source\": \"bhagavad_gita\", \"chapt..."
+  },
+  {
+    "chunk_id": 69,
+    "chunk_type": "json_array",
+    "token_count": 440,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG9.4\", \"content\": \"Chapter 9, Verse 4: 9.4 All this world is pervaded by Me in My unmanifest aspect; all beings exist in Me, but I do not dwell in them.\", \"metadata\": {\"source\": \"bhagavad_gi..."
+  },
+  {
+    "chunk_id": 70,
+    "chunk_type": "json_array",
+    "token_count": 439,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG9.9\", \"content\": \"Chapter 9, Verse 9: 9.9 These acts do not bind Me, O Arjuna, sitting like one indifferent, unattached to those acts.\", \"metadata\": {\"source\": \"bhagavad_gita\", \"chapter\": 9..."
+  },
+  {
+    "chunk_id": 71,
+    "chunk_type": "json_array",
+    "token_count": 418,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 4 items",
+      "item_count": 4,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG9.14\", \"content\": \"Chapter 9, Verse 14: 9.14 Always glorifying Me, striving,firm in vows, prostrating themselves before Me, they worship Me with devotion always steadfast.\", \"metadata\": {\"s..."
+  },
+  {
+    "chunk_id": 72,
+    "chunk_type": "json_array",
+    "token_count": 425,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 4 items",
+      "item_count": 4,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG9.18\", \"content\": \"Chapter 9, Verse 18: 9.18 I am the goal, the supporter, the Lord, the witness, the abode, the shelter, the friend, the origin, the dissolution, the foundation, the treasu..."
+  },
+  {
+    "chunk_id": 73,
+    "chunk_type": "json_array",
+    "token_count": 470,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG9.22\", \"content\": \"Chapter 9, Verse 22: 9.22 For those men who worship Me alone, thinking of no other, for those ever-united, I secure what is not already possessed and preserve what they a..."
+  },
+  {
+    "chunk_id": 74,
+    "chunk_type": "json_array",
+    "token_count": 461,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG9.27\", \"content\": \"Chapter 9, Verse 27: 9.27 Whatever thou doest, whatever thou eatest, whatever thou offerest in sacrifice, whatever thou givest, whatever thou practisest as austerity, O A..."
+  },
+  {
+    "chunk_id": 75,
+    "chunk_type": "json_array",
+    "token_count": 477,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG9.32\", \"content\": \"Chapter 9, Verse 32: 9.32 For, taking refuge in Me, they also who, O Arjuna, may be of a sinful birth  women, Vaisyas as well as Sudras  attain the Supreme Goal.\", \"metad..."
+  },
+  {
+    "chunk_id": 76,
+    "chunk_type": "json_array",
+    "token_count": 491,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG10.3\", \"content\": \"Chapter 10, Verse 3: 10.3 He who knows Me as unborn and beginningless, as the great Lord of the worlds, he, among mortals, is undeluded and he is liberated from all sins...."
+  },
+  {
+    "chunk_id": 77,
+    "chunk_type": "json_array",
+    "token_count": 439,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG10.8\", \"content\": \"Chapter 10, Verse 8: 10.8 I am the source of all; from Me everything evolves; understanding thus, the wise, endowed with meditation, worship Me.\", \"metadata\": {\"source\": ..."
+  },
+  {
+    "chunk_id": 78,
+    "chunk_type": "json_array",
+    "token_count": 450,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG10.13\", \"content\": \"Chapter 10, Verse 13: 10.13 All the sages have thus declared Thee, as also the divine sage Narada; so also Asita, Devala and Vyasa; and now Thou Thyself sayest so to me...."
+  },
+  {
+    "chunk_id": 79,
+    "chunk_type": "json_array",
+    "token_count": 483,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG10.18\", \"content\": \"Chapter 10, Verse 18: 10.18 Tell me again in detail, O Krishna, of Thy Yogic power and glory; for I am not satiated with what I have heard of Thy life-giving and nectar-..."
+  },
+  {
+    "chunk_id": 80,
+    "chunk_type": "json_array",
+    "token_count": 423,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 4 items",
+      "item_count": 4,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG10.23\", \"content\": \"Chapter 10, Verse 23: 10.23 And, among the Rudras I am Sankara; among the Yakshas and Rakshasas, the Lord of wealth (Kubera); among the Vasus I am Pavaka (fire); and amo..."
+  },
+  {
+    "chunk_id": 81,
+    "chunk_type": "json_array",
+    "token_count": 489,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG10.27\", \"content\": \"Chapter 10, Verse 27: 10.27 Know Me as Ucchaisravas born of nectar, among horses; among lordly elephants (I am) the Airavata; and, among men, the king.\", \"metadata\": {\"s..."
+  },
+  {
+    "chunk_id": 82,
+    "chunk_type": "json_array",
+    "token_count": 417,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 4 items",
+      "item_count": 4,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG10.32\", \"content\": \"Chapter 10, Verse 32: 10.32 Among creations I am the beginning, the middle and also the end, O Arjuna; among the sciences I am the science of the Self; and I am the logi..."
+  },
+  {
+    "chunk_id": 83,
+    "chunk_type": "json_array",
+    "token_count": 481,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG10.36\", \"content\": \"Chapter 10, Verse 36: 10.36 I am the gambling of the fraudulent; I am the splendour of the splendid; I am victory; I am determination (of those who are determined); I am..."
+  },
+  {
+    "chunk_id": 84,
+    "chunk_type": "json_array",
+    "token_count": 448,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG10.41\", \"content\": \"Chapter 10, Verse 41: 10.41 Whatever being there is glorious, prosperous or powerful, that know thou to be a manifestation of a part of My splendour.\", \"metadata\": {\"sou..."
+  },
+  {
+    "chunk_id": 85,
+    "chunk_type": "json_array",
+    "token_count": 466,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG11.4\", \"content\": \"Chapter 11, Verse 4: 11.4 If Thou, O Lord, thinkest it possible for me to see it, do Thou, then, O Lord of the Yogins, show me Thy imperishable Self.\", \"metadata\": {\"sour..."
+  },
+  {
+    "chunk_id": 86,
+    "chunk_type": "json_array",
+    "token_count": 468,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG11.9\", \"content\": \"Chapter 11, Verse 9: 11.9 Sanjaya said  Having thus spoken, O king, the great Lord of Yoga, hari (Krishna), showed to Arjuna His supreme form as the Lord.\", \"metadata\": {..."
+  },
+  {
+    "chunk_id": 87,
+    "chunk_type": "json_array",
+    "token_count": 409,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 4 items",
+      "item_count": 4,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG11.14\", \"content\": \"Chapter 11, Verse 14: 11.14 Then, Arjuna, filled with wonder and with his hair standing on end, bowed down his head to the God and spoke with joined palms.\", \"metadata\":..."
+  },
+  {
+    "chunk_id": 88,
+    "chunk_type": "json_array",
+    "token_count": 417,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 4 items",
+      "item_count": 4,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG11.18\", \"content\": \"Chapter 11, Verse 18: 11.18 Thou art the Imperishable, the Supreme Being, worthy to be known. Thou art the great treasure-house of this universe; Thou art the imperishab..."
+  },
+  {
+    "chunk_id": 89,
+    "chunk_type": "json_array",
+    "token_count": 431,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 4 items",
+      "item_count": 4,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG11.22\", \"content\": \"Chapter 11, Verse 22: 11.22 The Rudras, Adityas, Vasus, Sadhyas, Visvedevas, the two Asvins, Maruts, the manes and the hosts of celestial singers, Yakshas, demons and th..."
+  },
+  {
+    "chunk_id": 90,
+    "chunk_type": "json_array",
+    "token_count": 458,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG11.26\", \"content\": \"Chapter 11, Verse 26: 11.26 All the sons of Dhritarashtra, with the hosts of kings of the earth, Bhishma, Drona and Karna, with the chief among our warriors.\", \"metadata..."
+  },
+  {
+    "chunk_id": 91,
+    "chunk_type": "json_array",
+    "token_count": 507,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG11.31\", \"content\": \"Chapter 11, Verse 31: 11.31 Tell me, who Thou art, so fierce of form. Salutations to Thee, O God Supreme: have mercy. I desire to know Thee, the original Being. I know n..."
+  },
+  {
+    "chunk_id": 92,
+    "chunk_type": "json_array",
+    "token_count": 458,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 4 items",
+      "item_count": 4,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG11.36\", \"content\": \"Chapter 11, Verse 36: 11.36 Arjuna said  It is meet, O Krishna, that the world delights and rejoices in Thy praise; demons fly in fear to all arters and the hosts of the..."
+  },
+  {
+    "chunk_id": 93,
+    "chunk_type": "json_array",
+    "token_count": 438,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 4 items",
+      "item_count": 4,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG11.40\", \"content\": \"Chapter 11, Verse 40: 11.40 Salutations to Thee, in front and behind! Salutations to Thee on every side! O All!! Thou infinite in power and prowess, pervadest all; where..."
+  },
+  {
+    "chunk_id": 94,
+    "chunk_type": "json_array",
+    "token_count": 440,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 4 items",
+      "item_count": 4,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG11.44\", \"content\": \"Chapter 11, Verse 44: 11.44 Therefore, bowing down, prostrating my body, I crave Thy forgiveness, O adorable Lord. As a father forgives his son, a friend his (dear) frie..."
+  },
+  {
+    "chunk_id": 95,
+    "chunk_type": "json_array",
+    "token_count": 491,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG11.48\", \"content\": \"Chapter 11, Verse 48: 11.48 Neither by the study of the Vedas and sacrifices, nor by gifts nor by rituals nor by severe austerities can I be seen in this form in the wor..."
+  },
+  {
+    "chunk_id": 96,
+    "chunk_type": "json_array",
+    "token_count": 474,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG11.53\", \"content\": \"Chapter 11, Verse 53: 11.53 Neither by the Vedas nor by austerity, nor by gift, nor by sacrifice can I be seen in this form as thou hast seen Me (so easily).\", \"metadata..."
+  },
+  {
+    "chunk_id": 97,
+    "chunk_type": "json_array",
+    "token_count": 507,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 6 items",
+      "item_count": 6,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG12.3\", \"content\": \"Chapter 12, Verse 3: Swami Sivananda did not comment on this sloka\", \"metadata\": {\"source\": \"bhagavad_gita\", \"chapter\": 12, \"verse\": 3, \"topic\": \"hindu_scripture\"}}, {\"id..."
+  },
+  {
+    "chunk_id": 98,
+    "chunk_type": "json_array",
+    "token_count": 449,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG12.9\", \"content\": \"Chapter 12, Verse 9: 12.9 If thou art unable to fix thy mind steadily on Me, then by the Yoga of constant practice do thou seek to reach Me, O Arjuna.\", \"metadata\": {\"sou..."
+  },
+  {
+    "chunk_id": 99,
+    "chunk_type": "json_array",
+    "token_count": 451,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG12.14\", \"content\": \"Chapter 12, Verse 14: 12.14 Ever content, steady in meditation, self-controlled, possessed of firm conviction, with the mind and intellect dedicated to Me, he, My devtoe..."
+  },
+  {
+    "chunk_id": 100,
+    "chunk_type": "json_array",
+    "token_count": 498,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG12.19\", \"content\": \"Chapter 12, Verse 19: 12.19 He to whom censure and praise are eal, who is silent, content with anything, homeless, of a steady mind, and full of devotion  that man is de..."
+  },
+  {
+    "chunk_id": 101,
+    "chunk_type": "json_array",
+    "token_count": 451,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG13.4\", \"content\": \"Chapter 13, Verse 4: 13.4 What the field is and of what nature, what are its modifications and whence it is and also who He is and what His powers are  hear all that from..."
+  },
+  {
+    "chunk_id": 102,
+    "chunk_type": "json_array",
+    "token_count": 456,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG13.9\", \"content\": \"Chapter 13, Verse 9: 13.9 Indifference to the objects of the senses and also absence of egoism; perception of (or reflection on) the evil in birth, death, old age, sickne..."
+  },
+  {
+    "chunk_id": 103,
+    "chunk_type": "json_array",
+    "token_count": 445,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG13.14\", \"content\": \"Chapter 13, Verse 14: 13.14 With hands and feet everywhere, with eyes, heads and mouths everywhere, with ears everywhere, He exists in the worlds enveloping all.\", \"meta..."
+  },
+  {
+    "chunk_id": 104,
+    "chunk_type": "json_array",
+    "token_count": 448,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG13.19\", \"content\": \"Chapter 13, Verse 19: 13.19 Thus the field, as well as knowledge and the knowable have been briefly stated. My devotee, knowing this, enters into My Being.\", \"metadata\":..."
+  },
+  {
+    "chunk_id": 105,
+    "chunk_type": "json_array",
+    "token_count": 447,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG13.24\", \"content\": \"Chapter 13, Verse 24: 13.24 He who thus knows the Spirit and Matter together with the alities, in whatever condition he may be, he is not born again.\", \"metadata\": {\"sou..."
+  },
+  {
+    "chunk_id": 106,
+    "chunk_type": "json_array",
+    "token_count": 433,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG13.29\", \"content\": \"Chapter 13, Verse 29: 13.29 Because he who sees the same Lord eally dwelling everywhere does not destroy the Self by the self; he goes to the highest goal.\", \"metadata\":..."
+  },
+  {
+    "chunk_id": 107,
+    "chunk_type": "json_array",
+    "token_count": 465,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG13.34\", \"content\": \"Chapter 13, Verse 34: 13.34 Just as the one sun illumines the whole world, so also the Lord of the field (Supreme Self) \\nillumines the whole field, O Arjuna.\", \"metadat..."
+  },
+  {
+    "chunk_id": 108,
+    "chunk_type": "json_array",
+    "token_count": 468,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG14.4\", \"content\": \"Chapter 14, Verse 4: 14.4 Whatever forms are produced, O Arjuna, in any womb whatsoever, the great Brahma is their womb and I am the seed-giving father.\", \"metadata\": {\"s..."
+  },
+  {
+    "chunk_id": 109,
+    "chunk_type": "json_array",
+    "token_count": 449,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG14.9\", \"content\": \"Chapter 14, Verse 9: 14.9 Sattva attaches to happiness, Rajas to action, O Arjuna, while Tamas verily shrouding knowledge attaches to heedlessness.\", \"metadata\": {\"source..."
+  },
+  {
+    "chunk_id": 110,
+    "chunk_type": "json_array",
+    "token_count": 454,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG14.14\", \"content\": \"Chapter 14, Verse 14: 14.14 If the embodied one meets with death when Sattva is predominant, then he attains to the spotless worlds of the knowers of the Highest.\", \"met..."
+  },
+  {
+    "chunk_id": 111,
+    "chunk_type": "json_array",
+    "token_count": 459,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG14.19\", \"content\": \"Chapter 14, Verse 19: 14.19 When the seer beholds no agent other than the Gunas and knows That which is higher than they, he attains to My Being.\", \"metadata\": {\"source\"..."
+  },
+  {
+    "chunk_id": 112,
+    "chunk_type": "json_array",
+    "token_count": 483,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG14.24\", \"content\": \"Chapter 14, Verse 24: 14.24 Who is the same in pleasure and pain, who dwells in the Self, to whom a clod of earth, stone and gold are alike, who is the same to the dear ..."
+  },
+  {
+    "chunk_id": 113,
+    "chunk_type": "json_array",
+    "token_count": 486,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG15.2\", \"content\": \"Chapter 15, Verse 2: 15.2 Below and above spread its branches, nourished by the Gunas; sense-objects are its buds; and below, in the world of men, stretch forth the roots..."
+  },
+  {
+    "chunk_id": 114,
+    "chunk_type": "json_array",
+    "token_count": 462,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG15.7\", \"content\": \"Chapter 15, Verse 7: 15.7 An eternal portion of Myself having become a living soul in the world of life, draws to (itself) the (five) senses with the mind for the sixth, ..."
+  },
+  {
+    "chunk_id": 115,
+    "chunk_type": "json_array",
+    "token_count": 485,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG15.12\", \"content\": \"Chapter 15, Verse 12: 15.12 That light which residing in the sun illumines the whole world, that which is in the moon and in the fire  know that light to be Mine.\", \"met..."
+  },
+  {
+    "chunk_id": 116,
+    "chunk_type": "json_array",
+    "token_count": 466,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG15.17\", \"content\": \"Chapter 15, Verse 17: 15.17 But distinct is the Supreme Purusha called the highest Self, the indestructible Lord Who, pervading the three worlds, sustains them.\", \"metad..."
+  },
+  {
+    "chunk_id": 117,
+    "chunk_type": "json_array",
+    "token_count": 486,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG16.2\", \"content\": \"Chapter 16, Verse 2: 16.2 Harmlessness, truth, absence of anger, renunciation, peacefulness, absence of crookedness, compassion towards beings, non-covetousness, gentlene..."
+  },
+  {
+    "chunk_id": 118,
+    "chunk_type": "json_array",
+    "token_count": 441,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG16.7\", \"content\": \"Chapter 16, Verse 7: 16.7 The demoniacal know not what to do and what to refrain from; neither purity, nor right conduct nor truth is found in them.\", \"metadata\": {\"sourc..."
+  },
+  {
+    "chunk_id": 119,
+    "chunk_type": "json_array",
+    "token_count": 462,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG16.12\", \"content\": \"Chapter 16, Verse 12: 16.12 Bound by a hundred ties of hope, given over to lust and anger, they strive to obtain by unlawful means hoards to wealth for sensual enjoyment..."
+  },
+  {
+    "chunk_id": 120,
+    "chunk_type": "json_array",
+    "token_count": 447,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG16.17\", \"content\": \"Chapter 16, Verse 17: 16.17 Self-conceited, stubborn, filled with the pride and intoxication of wealth, they perform sacrifices in name out of ostentation, contrary to s..."
+  },
+  {
+    "chunk_id": 121,
+    "chunk_type": "json_array",
+    "token_count": 489,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG16.22\", \"content\": \"Chapter 16, Verse 22: 16.22 A man who is liberated from these three gates to darkness, O Arjuna, practises what is good for him and thus goes to the Supreme Goal.\", \"met..."
+  },
+  {
+    "chunk_id": 122,
+    "chunk_type": "json_array",
+    "token_count": 474,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG17.3\", \"content\": \"Chapter 17, Verse 3: 17.3 The faith of each is in accordance with his nature, O Arjuna. The man consists of his faith; as a man's faith is, so is he.\", \"metadata\": {\"sour..."
+  },
+  {
+    "chunk_id": 123,
+    "chunk_type": "json_array",
+    "token_count": 476,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG17.8\", \"content\": \"Chapter 17, Verse 8: 17.8 The foods which increase life, purity, strength, health, joy and cheerfulness (good appetite), which are savoury and oleaginous, substantial and..."
+  },
+  {
+    "chunk_id": 124,
+    "chunk_type": "json_array",
+    "token_count": 447,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG17.13\", \"content\": \"Chapter 17, Verse 13: 17.13 They declare that sacrifice to be Tamasic which is contrary to the ordinances of the scriptures, in which no food is distributed, which is de..."
+  },
+  {
+    "chunk_id": 125,
+    "chunk_type": "json_array",
+    "token_count": 465,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG17.18\", \"content\": \"Chapter 17, Verse 18: 17.18 The austerity which is practised with the object of gaining good reception, honour and worship, and with hypocrisy, is here said to be Rajasi..."
+  },
+  {
+    "chunk_id": 126,
+    "chunk_type": "json_array",
+    "token_count": 484,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG17.23\", \"content\": \"Chapter 17, Verse 23: 17.23 \\\"Om Tat Sat\\\": This has been declared to be the triple designation of Brahman. By that were created formerly, the Brahmanas, the Vedas and t..."
+  },
+  {
+    "chunk_id": 127,
+    "chunk_type": "json_array",
+    "token_count": 483,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG17.28\", \"content\": \"Chapter 17, Verse 28: 17.28 Whatever is sacrificed, given or performed, and whatever austerity is practised without faith, it is called 'Asat', O Arjuna; it is naught he..."
+  },
+  {
+    "chunk_id": 128,
+    "chunk_type": "json_array",
+    "token_count": 455,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG18.5\", \"content\": \"Chapter 18, Verse 5: 18.5 Acts of sacrifice, gift and austerity should not be abandoned, but should be performed; sacrifice, gift and also austerity are the purifiers of ..."
+  },
+  {
+    "chunk_id": 129,
+    "chunk_type": "json_array",
+    "token_count": 456,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG18.10\", \"content\": \"Chapter 18, Verse 10: 18.10 The man of renunciation, pervaded by purity, intelligent, and with his doubts cut asunder, does not hate a disagreeable work nor is he attach..."
+  },
+  {
+    "chunk_id": 130,
+    "chunk_type": "json_array",
+    "token_count": 476,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG18.15\", \"content\": \"Chapter 18, Verse 15: 18.15 Whatever action a man performs with his body, speech and mind  whether right or the reverse  these five are its causes.\", \"metadata\": {\"sourc..."
+  },
+  {
+    "chunk_id": 131,
+    "chunk_type": "json_array",
+    "token_count": 470,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG18.20\", \"content\": \"Chapter 18, Verse 20: 18.20 That by which one sees the one indestructible Reality in all beings, not separate in all the separate beings  know thou that knowledge to be ..."
+  },
+  {
+    "chunk_id": 132,
+    "chunk_type": "json_array",
+    "token_count": 469,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG18.25\", \"content\": \"Chapter 18, Verse 25: 18.25 That action which is undertaken from delusion, without a regard for the conseences, loss, injury and (one's own) ability  that is declared to..."
+  },
+  {
+    "chunk_id": 133,
+    "chunk_type": "json_array",
+    "token_count": 406,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 4 items",
+      "item_count": 4,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG18.30\", \"content\": \"Chapter 18, Verse 30: 18.30 The intellect which knows the path of work and renunciation, what ought to be done and what ought not to be done, fear and fearlessness, bond..."
+  },
+  {
+    "chunk_id": 134,
+    "chunk_type": "json_array",
+    "token_count": 496,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG18.34\", \"content\": \"Chapter 18, Verse 34: 18.34 But that, O Arjuna, by which, on account of attachment and desire for reward, one holds fast to Dharma (duty), enjoyment of pleasures and ear..."
+  },
+  {
+    "chunk_id": 135,
+    "chunk_type": "json_array",
+    "token_count": 481,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG18.39\", \"content\": \"Chapter 18, Verse 39: 18.39 That happiness which at first as well as in the seel deludes the self, and which arises from sleep, indolence and heedlessness  that is decla..."
+  },
+  {
+    "chunk_id": 136,
+    "chunk_type": "json_array",
+    "token_count": 484,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG18.44\", \"content\": \"Chapter 18, Verse 44: 18.44 Agriculture, cattle-rearing and trade are the duties of the Vaisya (merchant), born of (their own) nature; and action consisting of service i..."
+  },
+  {
+    "chunk_id": 137,
+    "chunk_type": "json_array",
+    "token_count": 452,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG18.49\", \"content\": \"Chapter 18, Verse 49: 18.49 He whose intellect is unattached everywhere, who has subdued his self, from whom desire has fled,  he by renunciation, attains the supreme st..."
+  },
+  {
+    "chunk_id": 138,
+    "chunk_type": "json_array",
+    "token_count": 442,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG18.54\", \"content\": \"Chapter 18, Verse 54: 18.54 Becoming Brahman, serene in the Self, he neither grieves nor desires, the same to all beings, he obtains supreme devotion to Me.\", \"metadata\"..."
+  },
+  {
+    "chunk_id": 139,
+    "chunk_type": "json_array",
+    "token_count": 456,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG18.59\", \"content\": \"Chapter 18, Verse 59: 18.59 If, filled with egoism, thou thinkest: \\\"I will not fight\\\", vain is this, thy resolve; Nature will compel thee.\", \"metadata\": {\"source\": \"bh..."
+  },
+  {
+    "chunk_id": 140,
+    "chunk_type": "json_array",
+    "token_count": 453,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG18.64\", \"content\": \"Chapter 18, Verse 64: 18.64 Hear thou again My supreme word, most secret of all; because thou art dearly beloved of Me, I will tell thee what is good.\", \"metadata\": {\"so..."
+  },
+  {
+    "chunk_id": 141,
+    "chunk_type": "json_array",
+    "token_count": 454,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG18.69\", \"content\": \"Chapter 18, Verse 69: 18.69 Nor is there any among men who does dearer service to Me, nor shall there be another on earth dearer to Me than he.\", \"metadata\": {\"source\": ..."
+  },
+  {
+    "chunk_id": 142,
+    "chunk_type": "json_array",
+    "token_count": 445,
+    "metadata": {
+      "schema_type": "object",
+      "chunk_type": "json_array",
+      "content_summary": "Array of 5 items",
+      "item_count": 5,
+      "common_keys": [
+        "id",
+        "content",
+        "metadata"
+      ]
+    },
+    "content_preview": "[{\"id\": \"BG18.74\", \"content\": \"Chapter 18, Verse 74: 18.74 Sanjaya said  Thus I have heard this wonderful dialogue between Krishna and the high-souled Arjuna, which causes the hair to stand on end.\", ..."
+  }
+]
